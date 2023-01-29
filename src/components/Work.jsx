@@ -2,6 +2,7 @@ import React from 'react'
 import JobCoach from '../assets/projects/jobcoach.png'
 import NbaPedia from '../assets/projects/nbapedia.png'
 import RocketsGame from '../assets/projects/rocketsgame.png'
+import Portfolio from '../assets/projects/portfolio.png'
 
 const Work = () => {
 
@@ -28,6 +29,14 @@ const Work = () => {
       title: "ReactJS Full Stack Mobile App",
       code: "https://github.com/goncaloarsenio/project3-client",
       demo: "https://ironhack-project3-client.netlify.app/",
+      
+    },
+    {
+      id: 4,
+      img: Portfolio,
+      title: "ReactJS Full Stack App",
+      code: "https://github.com/ricardoisidro33/PortfolioRicardo",
+      demo: "https://ricardoisidro.netlify.app/",
       
     },
 ]
