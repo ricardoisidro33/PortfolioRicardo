@@ -3,6 +3,7 @@ import JobCoach from '../assets/projects/jobcoach.png'
 import NbaPedia from '../assets/projects/nbapedia.png'
 import RocketsGame from '../assets/projects/rocketsgame.png'
 import Portfolio from '../assets/projects/portfolio.png'
+import Netflix from '../assets/projects/netflixclone.png'
 
 const Work = () => {
 
@@ -37,6 +38,14 @@ const Work = () => {
       title: "ReactJS Full Stack App",
       code: "https://github.com/ricardoisidro33/PortfolioRicardo",
       demo: "https://ricardoisidro.netlify.app/",
+      
+    },
+    {
+      id: 5,
+      img: Netflix,
+      title: "ReactJS and FireBase App",
+      code: "https://github.com/ricardoisidro33/netflixclone/tree/master",
+      demo: "https://netflixclone-ricardo.web.app/",
       
     },
 ]
